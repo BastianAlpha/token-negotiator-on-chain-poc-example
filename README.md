@@ -4,12 +4,13 @@ A proof of concept to demonstrate the use of on chain tokens in various scenario
 ### List of offers:
 
 - Offer A: Tickets to Studio54 offered to BAYC Derivative Holders
-- Offer B: Free T-shirt for Expansion Punk Holders
+- Offer B.1: Free T-shirt for Expansion Punk Holders
+- Offer B.2: Free T-shirt for Zed Holders
 - Offer C: Exclusive Subscription to Vogue for BAYC Derivative + Woman tribe
-- Offer D: Car Hire Discount for Riot Racers
-- Offer E: Car Hire Demo for Riot Racers
-- Offer F: 20% Off for your next VIP experienceto BAYC Derivative Holders
-- Offer G: Free T-shirt for Zed Holders
+- Offer D.1: Car Hire Discount for Riot Racers
+- Offer D.2: Car Hire Demo for Riot Racers
+- Offer E: 20% Off for your next VIP experienceto BAYC Derivative Holders
+
 
 ### Activating the offers
 
